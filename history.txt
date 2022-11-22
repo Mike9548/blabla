@@ -1,0 +1,211 @@
+    1  ld
+    2  ls
+    3  cd /
+    4  ls
+    5  cd boot
+    6  ls
+    7  cd .
+    8  cd ~
+    9  ls
+   10  cd ..
+   11  ls
+   12  cd ..
+   13  ls
+   14  sudo apt install update
+   15  sudo apt install upgrade
+   16  apt install update
+   17  apt-get install update
+   18  apt-get install update -y
+   19  sudo -i
+   20  sudo apt-get install update
+   21  sudo apt-get update
+   22  clear
+   23  sudo apt install wget
+   24  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   25  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   26  sudo apt-get install windbind
+   27  sudo apt-get windbind
+   28  sudo apt-get install windbind
+   29  sudo apt-get windbind
+   30  sudo apt-get install windbind
+   31  sudo apt-get update
+   32  sudo apt-get install windbind
+   33  sudo apt-get install playonlinux
+   34  sudo apt-get install windbind
+   35  sudo apt-get upgrade
+   36  sudo apt-get install windbind
+   37  ls
+   38  ls -l
+   39  cd Desktop
+   40  ls -l
+   41  ls the chosen
+   42  cat the chosen
+   43  cd the chosen
+   44  cat 'the chosen'
+   45  cd 'the chosen'
+   46  ls -ltr
+   47  sudo -i
+   48  cd ..
+   49  pwd
+   50  cd
+   51  pwd
+   52  ls -l
+   53  cd Desktop
+   54  ls -l
+   55  mkdir Devops
+   56  cd Devops
+   57  mkdir git
+   58  cd git
+   59  ls -l
+   60  git init
+   61  sudo apt-get git
+   62  sudo -i
+   63  ls -l
+   64  ls -lt
+   65  clear
+   66  pwd
+   67  cd project1
+   68  mkdir project1
+   69  cd project1
+   70  ls -l
+   71  cat "my name is michael and i am the best player in the world" >1.txt
+   72  echo "my name is michael and i am the best player in the world" >1.txt
+   73  echo "my name is olusegun and i am the most inteligent boy in my area" >2.txt
+   74  ls -l
+   75  git status
+   76  git add .
+   77  git status
+   78  git commit -m "my first commit"
+   79  git status
+   80  sudo git commit -m "my first commit"
+   81  git remote add origin "https://github.com/Mike9548/my_git.git"
+   82  sudo git commit -m "my first commit"
+   83  git push
+   84  git push origin master
+   85  pwd
+   86  ls -l
+   87  git status
+   88  git commit -m "first"
+   89  git config --global
+   90  git config --global "Mike9548"
+   91  ls -l
+   92  cd Desktop
+   93  ls -l
+   94  cd Devops
+   95  ls -l
+   96  cd git
+   97  ls -l
+   98  cd project1
+   99  ls -l
+  100  git status
+  101  git add .
+  102  git status
+  103  git commit -m "First commit"
+  104  git config --global user.name "mike9548"
+  105  git commit -m "first commit"
+  106  git config --global user.email "michaelolusegunogundiran@gmail.com"
+  107  git commit -m "first commit"
+  108  git status
+  109  git history
+  110  git --help
+  111  git log
+  112  git push origin 
+  113  git push origin master
+  114  sudo apt-get update
+  115  sudo apt-get upgrade
+  116  clear
+  117  ls
+  118  cd Desktop
+  119  ls 
+  120  cd Devops
+  121  ls
+  122  cd git
+  123  ls
+  124  cd project1
+  125  ls -l
+  126  git status
+  127  git push
+  128  git push origin master
+  129  echo "i love to eat food">3.txt
+  130  git status
+  131  git add .
+  132  git status
+  133  git commit -m "second commit"
+  134  git push
+  135  ls
+  136  pwd
+  137  git status
+  138  git push origin master
+  139  [200~git remote add origin https://github.com/Mike9548/blabla.git~
+  140  git remote add origin https://github.com/Mike9548/blabla.git
+  141  git push --set-upstream origin master
+  142  git upstream
+  143  git --help
+  144  ls
+  145  pwd
+  146  git remote -v
+  147  git remote add origin https://github.com/Mike9548/blabla.git
+  148  git remote remove origin
+  149  git remote -v
+  150  git remote add origin https://github.com/Mike9548/blabla.git
+  151  git push
+  152  git push origin main
+  153  git remote -v
+  154  git push --set-upstream main
+  155  git push origin master
+  156  git branch
+  157  ls
+  158  git status
+  159  git checkout branch mike
+  160  git branch mike
+  161  git branches
+  162  git branch
+  163  git checkout branch
+  164  git checkout branch mike
+  165  git branch
+  166  git checkout mike
+  167  git branch
+  168  ls -l
+  169  git push origin mike
+  170  git config --global credential.helper store
+  171  git branch
+  172  echo "also a very handsome guy" >>3.txt
+  173  git status
+  174  git add .
+  175  git commit -m "third commit"
+  176  git push
+  177  git push origin mike
+  178  git config --global credentials.helper store
+  179  echo "also a very handsome guy and the best" >>3.txt
+  180  git add .
+  181  git commit -m "fouth commit"
+  182  git staus
+  183  git push origin mike
+  184  git config credential.helper store
+  185  echo "also a very handsome guy and the begst" >>3.txt
+  186  git add .
+  187  git commit -m "fouth4 commit"
+  188  git push origin mike
+  189  echo "also a very handsome guy and the best and cute" >>3.txt
+  190  git add .
+  191  git commit -m "fouth5 commit"
+  192  git push origin mike
+  193  cd Desktop
+  194  ls
+  195  cd Devops
+  196  ls
+  197  cd git
+  198  ls
+  199  cd project1
+  200  ls 
+  201  cat 1.text
+  202  cat 1.txt
+  203  echo "and the fastest" >>1.txt
+  204  git status
+  205  git add .
+  206  git commit -m "fouth6 commit"
+  207  git push origin mike
+  208  git history
+  209  history
+  210  history > history,txt
+  211  history > history.txt
